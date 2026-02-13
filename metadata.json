@@ -1,0 +1,7 @@
+{
+  "name": "Integrated Legal Management System (ILMS)",
+  "description": "An enterprise-grade platform for digitalizing legal case handling and agreement approval workflows, featuring robust audit trails and automated lifecycle management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
