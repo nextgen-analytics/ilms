@@ -7,11 +7,11 @@ import {
 } from '../types';
 
 export const mockUsers: User[] = [
-  { id: 'usr_1', name: 'Sarah Connor', role: UserRole.LEGAL_OFFICER, email: 'sarah.c@legal.corp', password: 'password123', isActive: true },
-  { id: 'usr_2', name: 'John Doe', role: UserRole.MANAGEMENT, email: 'john.d@legal.corp', password: 'password123', isActive: true },
-  { id: 'usr_3', name: 'Admin User', role: UserRole.ADMIN, email: 'admin@legal.corp', password: 'password123', isActive: true },
-  { id: 'usr_4', name: 'Mike Ross', role: UserRole.SUPERVISOR, email: 'mike.r@legal.corp', password: 'password123', isActive: true },
-  { id: 'usr_5', name: 'Harvey Specter', role: UserRole.ADMIN, email: 'harvey.s@legal.corp', password: 'password123', isActive: true },
+  { id: 'usr_1', name: 'Pramodi Fernando', role: UserRole.LEGAL_OFFICER, email: 'pramodif@slt.com.lk', password: 'password123', isActive: true },
+  { id: 'usr_2', name: 'Praneetha Ramachandran', role: UserRole.MANAGEMENT, email: 'pranee@slt.com.lk', password: 'password123', isActive: true },
+  { id: 'usr_3', name: 'Gayan Liyanage', role: UserRole.ADMIN, email: 'gayanl@slt.com.lk', password: 'password123', isActive: true },
+  { id: 'usr_4', name: 'Charith Ihalagedara', role: UserRole.SUPERVISOR, email: 'charithmb@slt.com.lk', password: 'password123', isActive: true },
+  { id: 'usr_5', name: 'Sandaruwan Kangara', role: UserRole.ADMIN, email: 'sandaruwank@slt.com.lk', password: 'password123', isActive: true },
 ];
 
 export const currentUser: User = mockUsers[0];
